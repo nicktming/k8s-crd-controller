@@ -1,6 +1,5 @@
 
 // +k8s:deepcopy-gen=package,register
 
-// +groupName=example.com
-
+// +groupName=nicktming.example.com
 package v1
