@@ -1,0 +1,9 @@
+apiVersion: nicktming.example.com/v1
+kind: Database
+metadata:
+  name: my-database
+spec:
+  username: "nicktming"
+  password: "123456"
+  encoding: "json"
+
